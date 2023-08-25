@@ -1,0 +1,16 @@
+Created by testinium on 24.08.2023
+
+This is a concept file with following syntax for each concept.
+# login olunduktan sonra navbar üzerinde bulunan e-posta verisi kontrol edilir.
+* "//span[@class='account-menu-button--text account-menu-button--text--email ng-star-inserted']",e-posta "balotaonur@gmail.com" e-postası ile uyuşuyor mu kontrol edilmesi.
+# Navbar'ın sol üst kısmında bulunan teslimat adresi modalına tıklanır.
+* "div[class='location-row']" Css'le Tıklandı
+# Görüntülenen sayfada daha önceden eklenmiş olan ikinci adres tıklanır.
+* "delivery-options-address--1" id'le Tıklandı
+# Anasayfa'da bulunan bir ürünün kartında bulunan + butonuna tıklanarak sepete eklenir.
+* "fav-add-button-20000024010013" elementine kaydırma yap
+* "product-actions-add-to-cart-button--kuzu-pirzola-kg-p-16e5d1d" id'le Tıklandı
+# Navbar'da bulunan sepetim butonunun üzerine gelip sepete git butonu tıklanır.
+* "homepage-cart-button" id elementinin üstüne gelindi
+* "//button[@class='subtitle-2']" xPath'le Tıklandı
+

@@ -1,0 +1,13 @@
+Created by testinium on 24.08.2023
+
+This is a concept file with following syntax for each concept.
+# Görüntülenen Giriş Yap sayfasında textbox telno verisiyle doldurulur.
+* "input[type='tel']" Css'le Tıklandı
+* css ile "input[type='tel']" ve "061370241" yazıldı
+
+# Giriş Yap butonuna tıklanır.
+* "login__submit-button" id'le Tıklandı
+
+# 15 Saniye Bekletildi.
+* "15" saniye kadar bekle
+

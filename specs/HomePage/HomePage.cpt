@@ -1,0 +1,18 @@
+Created by testinium on 23.08.2023
+
+This is a concept file with following syntax for each concept.
+# migros.com.tr adresine gidilir.
+* migros.com.tr websitesine gidilir.
+* "2" saniye kadar bekle
+* "header-sanalmarket-tab" id elementinin üstüne gelindi
+* "2" saniye kadar bekle
+
+
+
+# PopUp kabul et butonuna tıklanır.
+* "button[class='mat-caption btn accept-all']" Css'le Tıklandı
+* "[class='svg-inline--fa fa-xmark']" Css'le Tıklandı
+
+# Üye Ol veya Giriş Yap butonuna tıklanır.
+* "//div[@class='inner text-color-white']" xPath'le Tıklandı
+

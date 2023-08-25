@@ -1,0 +1,18 @@
+Created by testinium on 24.08.2023
+
+This is a concept file with following syntax for each concept.
+# Görüntülenen sepetim sayfasında Devam Et butonuna tıklanır.
+*"//div[@class='subtitle-1 text-align-right']" elementinin değeri alındı
+* "checkout-summary-desktop-confirm-button" elementine kaydırma yap
+* "//*[@class='confirm-button mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base']" xPath'le Tıklandı
+# Fatura adresim aynı checkbox'na tıklanır.
+* "mat-mdc-checkbox-1-input" id'le Tıklandı
+# Devam et butonuna tıklanır.
+* "//*[@class='confirm-button mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-base']" xPath'le Tıklandı
+# Görüntülenen Teslimat sayfasında zaman aralığı seçilir.
+* "mat-radio-21-input" id'le Tıklandı
+# Ödenecek tutar kontrolü yapılır.
+*"//fe-line-checkout-summary-desktop/fe-line-checkout-price-summary/mat-card/div[1]/div[5]" li element  selectedprice ile eşleşiyor mu
+# Navbarda bulunan migros sanalmarket logosuna tıklanır.
+*  "3" saniye kadar bekle
+* "div[class='logo-container sanalmarket']" Css'le Tıklandı
